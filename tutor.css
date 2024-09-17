@@ -375,6 +375,11 @@ background-color: #222222;
 color: #faf3e1 !important;
 }
 
+.dark-theme .navbar-toggler {
+  color: #faf3e1 !important;
+  background-color: #faf3e1 !important;
+}
+
 
 .dark-theme .banner,
 .dark-theme .banner2 {
