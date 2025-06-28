@@ -4,7 +4,7 @@
 
 ## 🌐 Live Preview
 
-[🔗 Visit Flick Tutor Website](#) *https://richeaa.github.io/Tutor-Website/*
+🔗 Visit Flick Tutor Website](#) *https://richeaa.github.io/Tutor-Website/*
 
 ## ✨ Features
 
